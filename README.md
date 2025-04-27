@@ -1,1 +1,1 @@
-# fakestoreAPI
+# fake-store
